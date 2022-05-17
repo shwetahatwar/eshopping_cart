@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57158200649",
+    "project_id": "eshops-2b5ee",
+    "storage_bucket": "eshops-2b5ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57158200649:android:6954dde34875ba604efe98",
+        "android_client_info": {
+          "package_name": "com.shweta.eshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57158200649-dde7uhsqs05u55tjnmp04d8n06vju0kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdjplvdN39jvfJYVjERS2bG-dj_jCtwSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57158200649-dde7uhsqs05u55tjnmp04d8n06vju0kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
